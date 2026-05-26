@@ -1,6 +1,3 @@
-# intestinal-epithelium-2d-chip-model
-A 2D Chaste agent-based model of intestinal epithelial growth in a chip-inspired domain, released as part of a PhD thesis.
-
 # 2D Intestinal Epithelium Chip-Inspired Model
 
 This repository contains the core code for a 2D agent-based model of intestinal epithelial growth in a chip-inspired domain. The model was developed as part of my PhD thesis to investigate epithelial growth regulation, mechanical heterogeneity, and contact inhibition in a simplified organoid-on-a-chip context.
