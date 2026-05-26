@@ -35,6 +35,8 @@ Planned demo test:
 
 ## References
 
+- Pitt-Francis et al. (2009). Chaste: a test-driven approach to software development for biological modelling. *Computer Physics Communications*, 180(12), 2452–2471. https://doi.org/10.1016/j.cpc.2009.07.019
+- Mirams et al. (2013). Chaste: an open source C++ library for computational physiology and biology. *PLoS Computational Biology*, 9(3), e1002970. https://doi.org/10.1371/journal.pcbi.1002970
 - Langlands et al. (2016). Paneth Cell-Rich Regions Separated by a Cluster of Lgr5+ Cells Initiate Crypt Fission in the Intestinal Stem Cell Niche. *PLoS Biology*, 14(6), e1002491. https://doi.org/10.1371/journal.pbio.1002491
 - Almet et al. (2018). A multicellular model of intestinal crypt buckling and fission. *Bulletin of Mathematical Biology*, 80(2), 335–359. https://doi.org/10.1007/s11538-017-0377-z
 - Montes Olivas (2022). Mathematical and computational modelling of intestinal organoids. PhD thesis, University of Bristol.
