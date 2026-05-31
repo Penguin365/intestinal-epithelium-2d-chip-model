@@ -41,8 +41,8 @@ git clone https://github.com/Penguin365/intestinal-epithelium-2d-chip-model.git 
 
 This repository is prepared as a compact demo and open-source version of the 2D chip-inspired model. It contains only the core files required to run the demonstration tests.
 
-- src contains the custom classes needed to run the 2D simulations, including model-specific cell-cycle rules, contact-inhibition rules, cell killers, modifiers, writers, boundary interactions, and helper classes.
-- test contains the compact demonstration tests.
+- src contains the custom classes needed to run the 2D simulations, including model-specific cell-cycle rules, contact-inhibition rules, cell killers, modifiers, writers, boundary conditions, and helper classes.
+- test contains the demonstration tests.
 
 The main demo files are:
 
