@@ -8,7 +8,7 @@ The initial Chaste project framework was based on work by Axel A. Almet, with la
 
 ## Thesis context
 
-This repository supports the 2D modelling work presented in my PhD thesis. The model was used as a controlled testbed before moving to the 3D node-based framework.
+This repository supports the 2D modelling work presented in my PhD thesis.
 
 The main modelling aims are to study:
 
